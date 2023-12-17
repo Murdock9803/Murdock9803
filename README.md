@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a promising project, which enhances my skills. Let's learn together!**
 
-- 🤝 I’m looking for help with **learning more about the endless opportunities in development world**
+- 🤝 I’m looking forward to **learn more about the endless opportunities in development world.**
 
 - 👨‍💻 My first ever deployed website [https://murdock9803.github.io/Ayush-Portfolio/](https://murdock9803.github.io/Ayush-Portfolio/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ayushsahu9803@gmail.com**
 
-- ⚡ Fun fact **I love to discuss about cinema!**
+- ⚡ Fun fact : **I love to discuss about cinema!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
