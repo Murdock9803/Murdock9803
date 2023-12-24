@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **MERN, design, JavaScript libraries**
 
-- 📫 How to reach me **ayushsahu9803@gmail.com**
+- 📫 How to reach me **ayushsahu9803@gmail.com** 📫
 
-- ⚡ Fun fact : **I love to discuss about cinema!**
+- ⚡ Fun fact : **I love to discuss about cinema!** 🎦
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
