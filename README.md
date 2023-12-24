@@ -11,7 +11,7 @@
 
 - 👨‍💻 My first ever deployed website [https://murdock9803.github.io/Ayush-Portfolio/](https://murdock9803.github.io/Ayush-Portfolio/)
 
-- 📝 This site is special for me [https://murdock9803.github.io/CinePhile-PC/](https://murdock9803.github.io/CinePhile-PC/)
+- 📝 This site is special for me ❤️ [https://murdock9803.github.io/CinePhile-PC/](https://murdock9803.github.io/CinePhile-PC/)
 
 - 💬 Ask me about **MERN, design, JavaScript libraries**
 
