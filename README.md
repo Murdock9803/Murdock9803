@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **open source codes**
 
-- 👯 I’m looking to collaborate on **a promising project, which enhances my skills. Let's learn together!**
+- 👯 I’m looking to collaborate on **any promising project, which enhances my skills. Let's learn together!**
 
-- 🤝 I’m looking forward to **learn more about the endless opportunities in development world.**
+- 🤝 I’m looking forward to **learn more about the endless opportunities in DEV world.**
 
 - 👨‍💻 My first ever deployed website [https://murdock9803.github.io/Ayush-Portfolio/](https://murdock9803.github.io/Ayush-Portfolio/)
 
