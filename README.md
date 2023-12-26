@@ -3,9 +3,7 @@
 <h3 align="center">A passionate developer from India, who wants to grow along with the open source community.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc4MDF1bGNnbGs2NHAzeHFkOXhmeW91MDdlNzZya3VidHVhbTEyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **open source codes**
-
-- 👯 I’m looking to collaborate on **any promising project, which enhances my skills. Let's learn together!**
+- 🔭 I’m currently working on **open source contributions**
 
 - 🤝 I’m looking forward to **learn more about the endless opportunities in DEV world.**
 
