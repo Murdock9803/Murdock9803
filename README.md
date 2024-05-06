@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently focusing on **open source contributions**
 
+- 🏅 I got selected for **Google Summer of Code** 2024 with Creative Commons.
+
 - 🤝 I’m looking forward to **learn more about the endless opportunities in DEV world.**
 
 - 👨‍💻 My first ever deployed website [https://murdock9803.github.io/Ayush-Portfolio/](https://murdock9803.github.io/Ayush-Portfolio/)
