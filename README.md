@@ -33,9 +33,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murdock9803&show_icons=true&locale=en&layout=compact" alt="murdock9803" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murdock9803&" alt="murdock9803" /></p>
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Alt Text">
 
-<h3 align="left">Holopin Badges</h3>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Alt Text">
 
 [![An image of @murdock9803's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/murdock9803)](https://holopin.io/@murdock9803)
 
