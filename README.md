@@ -4,17 +4,15 @@
 <h3 align="center">A passionate developer from India, who wants to grow along with the Open Source Community.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc4MDF1bGNnbGs2NHAzeHFkOXhmeW91MDdlNzZya3VidHVhbTEyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently focusing on **open source contributions**
+- 🔭 I’m currently focusing on **OSS Contributions, Backend Dev and Web3**
 
-- 🏅 I got selected for **Google Summer of Code** 2024 with Creative Commons.
-
-- 🤝 I’m looking forward to **learn more about the endless opportunities in DEV world.**
+- 🏅 I have worked at **Google Summer of Code 2024** with Creative Commons.
 
 - 👨‍💻 My first ever deployed website [https://murdock9803.github.io/Ayush-Portfolio/](https://murdock9803.github.io/Ayush-Portfolio/)
 
 - 📝 This site is special for me ❤️ [https://murdock9803.github.io/CinePhile-PC/](https://murdock9803.github.io/CinePhile-PC/)
 
-- 💬 Ask me about **MERN, design, JavaScript libraries**
+- 💬 Ask me about **MERN, design, JavaScript libraries, Cinema and Boxing**
 
 - 📫 How to reach me **ayushsahu9803@gmail.com** 📫
 
@@ -24,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush sahu" height="30" width="40" /></a>
+  <a href="https://x.com/Murdock9803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitter.svg" alt="ayush sahu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
